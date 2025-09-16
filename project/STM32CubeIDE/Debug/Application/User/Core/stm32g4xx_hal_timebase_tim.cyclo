@@ -1,0 +1,3 @@
+C:/Users/cipri/Desktop/progetto_se_gruppo_17/Core/Src/stm32g4xx_hal_timebase_tim.c:41:19:HAL_InitTick	4
+C:/Users/cipri/Desktop/progetto_se_gruppo_17/Core/Src/stm32g4xx_hal_timebase_tim.c:106:6:HAL_SuspendTick	1
+C:/Users/cipri/Desktop/progetto_se_gruppo_17/Core/Src/stm32g4xx_hal_timebase_tim.c:118:6:HAL_ResumeTick	1

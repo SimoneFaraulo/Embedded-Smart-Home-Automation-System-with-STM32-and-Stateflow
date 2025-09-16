@@ -1,0 +1,10 @@
+config load "C:\Users\cipri\Desktop\progetto_se_gruppo_17\progetto_se_gruppo_17.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\cipri\STM32Cube\Repository\STM32Cube_FW_G4_V1.5.0"
+
+project generate 
+
+exit wait
